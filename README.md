@@ -4,4 +4,4 @@ Olá, eu sou o Eduardo 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofhammes&layout=compact&theme=radical)
 
 ## 📈 Atividade
-![Snake animation](https://github.com/eduardofhammes/eduardofhammes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/eduardofhammes/eduardofhammes/output/github-contribution-grid-snake-dark.svg)
