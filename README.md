@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Eduardo 👋
 
-<!--
-**eduardofhammes/eduardofhammes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Estatísticas do GitHub
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=eduardofhammes&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🚀 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofhammes&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Troféus
+![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=eduardofhammes&theme=onedark)
+
+## 📈 Atividade
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardofhammes&theme=react-dark)
